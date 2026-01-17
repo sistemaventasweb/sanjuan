@@ -1,7 +1,7 @@
 {
   "entryAssembly": "SistemaVentaBlazor.Client",
   "resources": {
-    "hash": "sha256-U/EreuUABFVVOLMOTfAqZVvskBfDQMQmboKJKT1eVKo=",
+    "hash": "sha256-95yCI1HRAEy3kdrtCsfBIBB1rOZERV2cApWfJUNRAKI=",
     "runtime": {
       "dotnet.js": "sha256-0WJiSpPpS88OGUmkRP53MwO7ntyCJ2vOVbDiqeyL6SE=",
       "dotnet.wasm": "sha256-HWcsX5GVcNth60xA3TuHDbkDhre4a5mqEeoerV/+SJ8=",
@@ -38,7 +38,7 @@
       "Microsoft.JSInterop.dll": "sha256-ZFNbhVOGmS9xYtbDOkCBa9VD8nN/HSGZkCQrpOxuNJg=",
       "MudBlazor.dll": "sha256-bYboJnWXOaGaRy2y4+g+pwf70UhzjMbdMP4TWkMh54U=",
       "Newtonsoft.Json.dll": "sha256-IsZJ91/OW+fHzNqIgEc7Y072ns8z9dGritiSyvR9Wgc=",
-      "SistemaVentaBlazor.Client.dll": "sha256-kj5GEMbXr+K1a1WINMDOGM8gg48+48kc90/schKER4k=",
+      "SistemaVentaBlazor.Client.dll": "sha256-Lid0F/3cKMibetM/WcJeEsHz4qPe7pJYkw4oKJzLSLs=",
       "SistemaVentaBlazor.Shared.dll": "sha256-Aiq3zNvoAES78Je3mVYmEVK0ASMp4mNNGHjB00DIA+0=",
       "SixLabors.Fonts.dll": "sha256-60LFKeQjsKuGgGML5YFJUjVw1J1WLLzYWBqs2DGShqY=",
       "System.Buffers.dll": "sha256-9wuRLWl78GUSZydVeNhGO5Hng/3inJsXSYUmaLo6D8M=",
@@ -65,7 +65,7 @@
       "System.IO.dll": "sha256-Z3TFIfRWQ5x1QORLKCeD+hXDCrev+VGPWaAdZQLnzwg=",
       "System.Linq.Expressions.dll": "sha256-gh99Woq5bByV+wfQoFCKgXpWRnbHRTHn7anIUgzr/8Y=",
       "System.Linq.Parallel.dll": "sha256-kX06apy6BssEQpEsTqWbEXKIn/KDYW9I/q6i2UYpX7M=",
-      "System.Linq.dll": "sha256-bZ2UI+52qJTEaooOrD92pbbfJat6fpcHwREqBFkaxlE=",
+      "System.Linq.dll": "sha256-1PyMRInXzZhiOol9ZyIOqGKiPZ3+MzNXWkQMbKTbY/0=",
       "System.Memory.dll": "sha256-LX73SkSTCpE0eb6s+Jr0mr1xaCva9XMEZQiAPLdT5ZU=",
       "System.Net.Http.Json.dll": "sha256-powmxCDNIAk++UDZV1XXYfFkZ4fU2V3pQw5rXpFZUW4=",
       "System.Net.Http.dll": "sha256-kjEKE2g22fKjC+8J1OQDolQhfHhA7d3rcQHyN3Z4x0M=",
